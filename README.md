@@ -1,5 +1,7 @@
 # Vue.js Fundamentals
 
+## [Link to GitHub Pages for this site](https://ull-esit-dmsi-1920.github.io/vue-fundamentals-JaimeSimeonPalomarBlumenthal/)
+
 You can find this free course by **Vue School** at [vueschool.io](https://vueschool.io/courses/vuejs-fundamentals). 
 The course is suitable for developers who do not yet know about Vue.js or are just getting started with Vue.
 
