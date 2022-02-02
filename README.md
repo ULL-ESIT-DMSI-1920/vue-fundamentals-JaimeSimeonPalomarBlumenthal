@@ -9,25 +9,25 @@ See also [Annotated Reading of the Essentials Section of the Vue.js Guide](https
 
 Follow these steps:
 
-- [ ] Write initial HTML with a shopping-list div
-- [ ] Load and Instanciate Vue add data and Vue template syntax to interpolate
-- [ ] Add an input an synchronize it with the interpolated text to see it
-- [ ] Explore the app in the console
-- [ ] Discuss the syntax of JS inside moustaches
-- [ ] Learn to read the errors in the console
-- [ ] Add items to data and show them using v-for
-- [ ] Add input a variable to store the newItem
-- [ ] Connect the input with the newItem and check the binding
+- [x] Write initial HTML with a shopping-list div
+- [x] Load and Instanciate Vue add data and Vue template syntax to interpolate
+- [x] Add an input an synchronize it with the interpolated text to see it
+- [x] Explore the app in the console
+- [x] Discuss the syntax of JS inside moustaches
+- [x] Learn to read the errors in the console
+- [x] Add items to data and show them using v-for
+- [x] Add input a variable to store the newItem
+- [x] Connect the input with the newItem and check the binding
 - [ ] Use Vue Devtools. Configure it to work with file://
-- [ ] Add v-on: Start by simulating in the console what we are going to do
-- [ ] Add button to add the new item when clicked
-- [ ] Add v-on:keyup.enter to the input element
-- [ ] Shorthands for v-on 
-- [ ] Use a method `saveItem` to factorice
-- [ ] Reset the input when finished the insertion
-- [ ] Check the method using the debugger
-- [ ] v-if and v-else
-- [ ] Add states: default and edition 
+- [x] Add v-on: Start by simulating in the console what we are going to do
+- [x] Add button to add the new item when clicked
+- [x] Add v-on:keyup.enter to the input element
+- [x] Shorthands for v-on 
+- [x] Use a method `saveItem` to factorice
+- [x] Reset the input when finished the insertion
+- [x] Check the method using the debugger
+- [x] v-if and v-else
+- [x] Add states: default and edition 
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
 
